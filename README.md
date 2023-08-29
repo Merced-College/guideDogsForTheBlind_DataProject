@@ -7,7 +7,7 @@ You are to use the code in this repo as starter code and add to it.
 
 The code reads in the data into the Dog objects, and creates and array of Dogs.  It has a function to find the count of the number of dogs that are in a certain given phase.  
 
-You should print out a table that shows the count of number of dogs that are in phases 1-9, here is an example of what the table should look like:\
+You should print out a table that shows the count of number of dogs that are in phases 1-9, here is an example of what the table should look like:
 
 Phase   count\
 1       	9\
@@ -18,7 +18,7 @@ Phase   count\
 6       	4\
 7       	12\
 8       	17\
-9       	0 \
+9       	0 
 
 Next make two functions, the first that returns the percentage of female dogs, and another function that returns the percentage of male dogs.  
 
