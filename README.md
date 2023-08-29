@@ -18,7 +18,7 @@ Phase   count\
 6       	4\
 7       	12\
 8       	17\
-9       	0\
+9       	0 \
 
 Next make two functions, the first that returns the percentage of female dogs, and another function that returns the percentage of male dogs.  
 
